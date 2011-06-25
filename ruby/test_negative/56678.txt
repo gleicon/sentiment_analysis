@@ -1,0 +1,9 @@
+Comprei através do shoptime um notebook da Amazon PC com problemas de hardware pois mal instalei o windows começou a dar despejo de memória , que no caso creio que haja algo com problemas na parte de hardware. Peço que o shoptime cancele a compra e retire a sua mercadoria, pois estou enviando por correio toda a documentação para que seja respeitado o prazo de 7 dias. A mercadoria me foi entregue no dia 07/02/2007, telefonei varias vezes pedindo o cancelamento do pedido mas o atendimento ao cliente me dizia que  o sistema estava fora do ar. Ainda não possuo nem um codigo de cancelamento. 
+Notebook HEL 81L Duo Core 1.6 Ghz + Mochila Sportive + viva voz s/ fio
+valor = R$2999,00
+O numero da nota fiscal é 453053
+Razão social Tv sky shop S/A. (Shoptime.com)
+Cnpj -00.776574/00005-80
+(O despejo de memória (memory dump) é um recurso que copia o conteúdo da memória para um arquivo em disco quando ocorre um erro fatal. Ou seja, o problema não é o despejo de memória, mas sim o erro fatal que ocorreu. 
+Teoricamente, o arquivo que ele cria pode ser usado por programadores da Microsoft para descobrir porque ocorreu o erro. Na maior parte dos casos, um erro fatal no NT é causado por problemas de hardware, por isso a sugestão de trocar os pentes de memória que você menciona. 
+É difícil precisar a origem do problema; procure levar o seu computador a uma assistência técnica para análise detalhada dos componentes)

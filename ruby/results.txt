@@ -1,0 +1,30 @@
+0.0 + 5.0 (506/720)
+{:positive=>261, :false_negative=>7, :negative=>939, :false_positive=>696}
+
+0.0 + 4.5, 5.0
+{:positive=>264, :false_negative=>4, :negative=>839, :false_positive=>796}
+
+0.0 + 4.0, 4.5, 5.0
+{:positive=>264, :false_negative=>4, :negative=>760, :false_positive=>875}
+
+0.0, 0.5 + 4.0, 4.5, 5.0
+{:positive=>263, :false_negative=>5, :negative=>824, :false_positive=>811}
+
+
+total negative: 1635
+total positive: 268
+
+Negative Cases:
+Total: 1635 + 268 = 1903
+
+
+TN / True Negative: case was negative and predicted negative: 939
+TP / True Positive: case was positive and predicted positive: 261
+FN / False Negative: case was positive but predicted negative: 7
+FP / False Positive: case was negative but predicted positive: 696
+
+Accuracy % of predictions correct: 939 + 261 = 1200 de 1903 -> 63.06% -> 0.6306
+positive recall % of positive cases did you catch: 261 de 268 -> 97.39% -> 0.9739
+positive precision % of positive predictions were correct -> 100% -> 1.0
+negative recall % 939 de 1635 57.43% -> 0.5743
+negative precision % 939 de 1635 100% -> 1.0

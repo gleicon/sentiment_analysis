@@ -1,0 +1,23 @@
+Segunda-feira, 29 de Janeiro de 2007, 22h19m 
+Gostaria de saber, como proceder com RMA de um HD Samsung. 
+Informações do Hard Disk: 
+Modelo: SP0802N (SpinPoint) 
+P/N: 0820J1FY851988 P/V FA 
+CODIGO BARRA 
+7 892509110174 
+Foi adquirido em SETEMBRO de 2005 no Rio de Janeiro, na rede DE LOJAS STAR 
+COMPUTER. 
+PS: Constatei o defeito, pois quando utilizo o HD, o computador sempre 
+"trava", e fica fazendo barulho ( 'tec tec tec' ). 
+Resolvi usar o Software HUTIL (que está disponivel no site da Samsung) e fiz 
+o diagnostico pelo o software. 
+Usei HUTIL para fazer o diagnostico e o mesmo diz que o hd está com defeito 
+que devo entrar em contato com a samsung. 
+Liguei para o call center (0800-124-421) e o mesmo me informou que só dão 
+suporte de eletrodomestico e me passaram este email: 
+hdd.samsung@samsung.com.br para saber como proceder o RMA. 
+Estou no aguardo de informações. 
+HOJE 28/01/2007 descubro que o email retornou por nao ter destinatario valido !
+Dia 02/02/2007 entrei em contato novamente com o 0800  e eles me deram um novo email hdd.seda@samsung.com.br
+e a mensagem ja foi encaminhada.
+Danilo Pereira Rosa
